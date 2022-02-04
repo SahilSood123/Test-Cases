@@ -1,2 +1,2 @@
 # Test-Cases
-Test cases written yo validate e-comm website demoblaze
+Test cases written to validate e-comm website demoblaze
